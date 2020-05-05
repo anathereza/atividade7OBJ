@@ -1,0 +1,252 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl R118_G70_B51
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.274510 0.200000
+Ks 0.330000 0.330000 0.330000
+
+newmtl woods___plastics_finish_carpentry_wood_red_birch_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.666667 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/woods___plastics_finish_carpentry_wood_red_birch_png.png
+
+newmtl R0_G128_B192
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.501961 0.752941
+Ks 0.330000 0.330000 0.330000
+d 0.101961
+
+newmtl R254_G232_B184
+Ka 0.000000 0.000000 0.000000
+Kd 0.996078 0.909804 0.721569
+Ks 0.330000 0.330000 0.330000
+
+newmtl Furnishings_Fabrics_Linen_Tweed_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.176471 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/Furnishings_Fabrics_Linen_Tweed_png.png
+
+newmtl R200_G200_B200
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.330000 0.330000 0.330000
+
+newmtl R147_G73_B0
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.286275 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl R100_G100_B100
+Ka 0.000000 0.000000 0.000000
+Kd 0.392157 0.392157 0.392157
+Ks 0.330000 0.330000 0.330000
+
+newmtl R220_G220_B220
+Ka 0.000000 0.000000 0.000000
+Kd 0.862745 0.862745 0.862745
+Ks 0.330000 0.330000 0.330000
+
+newmtl R0_G0_B0
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Woods___Plastics_Finish_Carpentry_Wood_Pine_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.917647 0.776471 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/Woods___Plastics_Finish_Carpentry_Wood_Pine_png.png
+
+newmtl R127_G127_B127
+Ka 0.000000 0.000000 0.000000
+Kd 0.498039 0.498039 0.498039
+Ks 0.330000 0.330000 0.330000
+
+newmtl Furnishings_Fabrics_Linen_White_jpeg
+Ka 0.000000 0.000000 0.000000
+Kd 0.807843 0.807843 0.807843
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/Furnishings_Fabrics_Linen_White_jpeg.jpg
+
+newmtl Woods___Plastics_Finish_Carpentry_Wood_Red_Birch_png1
+Ka 0.000000 0.000000 0.000000
+Kd 0.890196 0.666667 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/Woods___Plastics_Finish_Carpentry_Wood_Red_Birch_png1.png
+
+newmtl R17_G17_B17
+Ka 0.000000 0.000000 0.000000
+Kd 0.066667 0.066667 0.066667
+Ks 0.330000 0.330000 0.330000
+
+newmtl R252_G255_B255
+Ka 0.000000 0.000000 0.000000
+Kd 0.988235 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+d 0.360784
+
+newmtl woods___plastics_finish_carpentry_wood_cherry_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.913725 0.713725 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/woods___plastics_finish_carpentry_wood_cherry_png.png
+
+newmtl Furnishings_Fabrics_Linen_Beige_jpeg
+Ka 0.000000 0.000000 0.000000
+Kd 0.780392 0.760784 0.686275
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/Furnishings_Fabrics_Linen_Beige_jpeg.jpg
+
+newmtl R249_G250_B249
+Ka 0.000000 0.000000 0.000000
+Kd 0.976471 0.980392 0.976471
+Ks 0.330000 0.330000 0.330000
+d 0.200000
+
+newmtl R247_G247_B247
+Ka 0.000000 0.000000 0.000000
+Kd 0.968627 0.968627 0.968627
+Ks 0.330000 0.330000 0.330000
+
+newmtl R244_G244_B244
+Ka 0.000000 0.000000 0.000000
+Kd 0.956863 0.956863 0.956863
+Ks 0.330000 0.330000 0.330000
+
+newmtl R57_G57_B57
+Ka 0.000000 0.000000 0.000000
+Kd 0.223529 0.223529 0.223529
+Ks 0.330000 0.330000 0.330000
+
+newmtl R249_G239_B230
+Ka 0.000000 0.000000 0.000000
+Kd 0.976471 0.937255 0.901961
+Ks 0.330000 0.330000 0.330000
+
+newmtl Woods___Plastics_Finish_Carpentry_Plastic_Laminates_Taupe_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.741176 0.690196
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/Woods___Plastics_Finish_Carpentry_Plastic_Laminates_Taupe_png.png
+
+newmtl steelplt_png1
+Ka 0.000000 0.000000 0.000000
+Kd 0.301961 0.305882 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/steelplt_png1.png
+
+newmtl finishes_gypsum_board_painted_white_jpeg
+Ka 0.000000 0.000000 0.000000
+Kd 0.894118 0.894118 0.894118
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/finishes_gypsum_board_painted_white_jpeg.jpg
+
+newmtl R173_G173_B173
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.678431 0.678431
+Ks 0.330000 0.330000 0.330000
+
+newmtl R192_G192_B192
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.330000 0.330000 0.330000
+
+newmtl R165_G42_B42
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.164706 0.164706
+Ks 0.330000 0.330000 0.330000
+
+newmtl Concrete_Precast_Structural_Concrete_Smooth_jpeg
+Ka 0.000000 0.000000 0.000000
+Kd 0.505882 0.517647 0.462745
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/Concrete_Precast_Structural_Concrete_Smooth_jpeg.jpg
+
+newmtl andiroba_natural_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.278431 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/andiroba_natural_png.png
+
+newmtl R198_G198_B255
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.776471 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl R236_G239_B239
+Ka 0.000000 0.000000 0.000000
+Kd 0.925490 0.937255 0.937255
+Ks 0.330000 0.330000 0.330000
+
+newmtl thermal_moisture_roof_tiles_spanish_brown_colour_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.415686 0.356863 0.309804
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/thermal_moisture_roof_tiles_spanish_brown_colour_png.png
+
+newmtl R66_G30_B10
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.117647 0.039216
+Ks 0.330000 0.330000 0.330000
+
+newmtl Steelplt_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.301961 0.305882 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/Steelplt_png.png
+
+newmtl Brick_Non_Uniform_Running_Red_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.509804 0.231373 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/Brick_Non_Uniform_Running_Red_png.png
+
+newmtl Concrete_Cast_In_Place_Exposed_Aggregate_Coarse_jpeg
+Ka 0.000000 0.000000 0.000000
+Kd 0.309804 0.301961 0.290196
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/Concrete_Cast_In_Place_Exposed_Aggregate_Coarse_jpeg.jpg
+
+newmtl M_124_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.556863 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/M_124_png.png
+
+newmtl sitework_planting_gravel_mixed_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.109804 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/sitework_planting_gravel_mixed_png.png
+
+newmtl R109_G187_B96
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.733333 0.376471
+Ks 0.330000 0.330000 0.330000
+
+newmtl cmu_running_200x400_gray_png
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.603922 0.541176
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/cmu_running_200x400_gray_png.png
+
+newmtl Finishes_Painting_Paint_Black_Flaking_jpeg
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.215686 0.215686
+Ks 0.330000 0.330000 0.330000
+map_Kd a5-pisoelevado/Finishes_Painting_Paint_Black_Flaking_jpeg.jpg
+
+newmtl R222_G202_B141
+Ka 0.000000 0.000000 0.000000
+Kd 0.870588 0.792157 0.552941
+Ks 0.330000 0.330000 0.330000
+
+newmtl R128_G128_B128
+Ka 0.000000 0.000000 0.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.330000 0.330000 0.330000
+
